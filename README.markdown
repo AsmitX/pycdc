@@ -11,7 +11,7 @@ decompiler (pycdc).
 
 As the name implies, Decompyle++ is written in C++.
 If you wish to contribute, please fork us on github at 
-https://github.com/zrax/pycdc
+https://github.com/AsmitX/pycdc
 
 ## Building Decompyle++
 * Generate a project or makefile with [CMake](http://www.cmake.org) (See CMake's documentation for details)
